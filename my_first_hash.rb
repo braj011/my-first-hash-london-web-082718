@@ -1,6 +1,7 @@
 def my_hash
-  
-
+  first_dic = {
+  "word1" => "Wassup"
+  } 
   
 end
 
